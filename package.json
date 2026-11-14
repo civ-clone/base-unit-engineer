@@ -13,7 +13,8 @@
   "files": [
     "Engineer.js",
     "Engineer.d.ts",
-    "Engineer.js.map"
+    "Engineer.js.map",
+    "Engineer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
